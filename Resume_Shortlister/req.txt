@@ -1,0 +1,8 @@
+pandas
+spacy
+matplotlib
+prettytable
+PyPDF2
+layoutparser
+torch
+sentence_transformers

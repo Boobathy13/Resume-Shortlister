@@ -1,0 +1,27 @@
+Statistics,Machine Learning,Deep Learning,R Language,Python Language,NLP,Data Engineering,Web Development
+statistical models,linear regression,neural network,r,flask,nlp ,aws,reactjs
+statistical modeling,logistic regression,keras,ggplot,django,natural language processing,ec2,angularjs
+probability,K means,theano,shiny,pandas,topic modeling,amazon redshift,react
+normal distribution,random forest,computer vision,cran,numpy,lda,s3,angular
+poisson distribution,xgboost,neural networks,dplyr,scikit-learn,named entity recognition,docker,hmtl
+survival models,svm,convulational neural network (cnn),tidyr,sklearn,pos tagging,kubernetes,css
+hypothesis testing,naive bayes,recurrent neural network (rnn),lubridate,matplotlib,word2vec,scala,javascript
+bayesian inference,pca,object detection,knitr,scipy,word embedding,teredata,nodejs
+factor analysis,decision trees,yolo,,bokeh,latent semantic indexing,google big query,node.js
+forecasting,singular value decomposition,gpu,,statsmodel,spacy,aws lambda,mongodb
+markov chains,ensemble methods,cuda,,python,genism,aws emr,mongo db
+monte carlo simulation,boltzman machine,tensorflow,,,nltk,hive,web development
+descriptive statistics,gradient boosting,lstm,,,non-negative matrix factorization,hadoop,webdev
+inferential statistics,adaboost,gan,,,doc2vec,sql,express.js
+time series analysis,catboost,opencv,,,continuous bag of words,data pipeline,jquery
+anova,lightgbm,deep learning,,,skip-gram,elt,vue.js
+chi-square test,random forest,transformer models,,,bert,data warehouse,typescript
+t-distribution,mlp,attention mechanisms,,,setiment analysis,data lake,next.js
+regression analysis,autoencoder,computer vision,,,chat bot,apache spark,svelte
+cluster analysis,recommender systems,object recognition,,,text classification,apache flink,nest.js
+bayesion networks,time series forecasting,image processing,,,entity recognition,snowflake,graphql
+survival analysis,anomaly detection,speech recognition,,,text summarization,databricks,webpack
+multivariate analysis,dimensionality reduction,generative models,,,question answering,apache beam,bootstrap
+nonparametric statistics,feature engineering,reinforcement learning,,,machine translation,apache  airflow,tailwind css
+experimental design,model evaluation,self-supervised learning,,,text generation,presto,redux
+resampling methods,hyperparameter tuning,transfer learning,,,named entity linking,apache kafka,material-ui
